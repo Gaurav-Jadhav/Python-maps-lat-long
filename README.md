@@ -4,11 +4,12 @@ Accepts an XL file containing one or more addresses and on submit, returns an up
 
 Setup Instructions :
 
-You will need to create API KEY and enable "Maps JavaScript API" from
-https://developers.google.com/maps/documentation/javascript/get-api-key?authuser=1
+    Create API KEY and Enable "Maps JavaScript API" 
+    https://developers.google.com/maps/documentation/javascript/get-api-key?authuser=1
 
-Install requirements.txt
- 
+The requirements.txt file lists package which this project depend on, and it will be installed using:
+       
+     pip install -r requirements.txt
 
 
 
